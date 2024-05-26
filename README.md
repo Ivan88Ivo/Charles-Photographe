@@ -7,7 +7,7 @@ Je vous presente un site Charles Cantin Photographe.
 a: Une image toute la taille de l'ecran.
 b: Le text "Charles Cantin - Photographe ecrire verticalement et horizontalement.
 
-2 Page de Galerie
+2 Page de Galerie avec JS filtres
 
 a: Les belles photos de mariage, grossese, bebe, famille, bapteme, couple.
 
