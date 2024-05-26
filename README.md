@@ -18,7 +18,7 @@ b: Les prix
 
 4 Page de Contact
 
-a: Un formulaire
+a: Un formulaire avec JS
 
 En plus
 
